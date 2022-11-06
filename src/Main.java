@@ -44,6 +44,20 @@ public class Main {
 
         scanner.close();
 
->>>>>>> 6487083 (enviar repo)
+    //Sintaxe do switch-case
+        //switch ( expressão ) {
+        //case valor1:
+        //comando1
+        //comando2
+        //break;
+        //case valor2:
+        //comando3
+        //comando4
+        //break;
+        //default:
+        //comando5
+        //comando6
+        //break;
+        //}
     }
 }
